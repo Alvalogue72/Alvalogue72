@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ![Alvalogue72's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalogue72&show_icons=true&theme=dark)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvalogue72&layout=compact&langs_count=8&theme=algolia"/>
 
