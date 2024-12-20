@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Alvalogue72's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalogue72&show_icons=true&theme=radical)
 
 <!--
 **Alvalogue72/Alvalogue72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
