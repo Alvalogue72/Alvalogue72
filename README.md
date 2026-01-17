@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350px" />
 
-I am a **Web Application Developer** and a **Computer Science Engineering** student. I'm deeply passionate about building scalable web solutions and currently diving deep into the world of **AI and Big Data**.
+I am a **Web Application Developer** and a **Computer Science Engineering** student. I'm currently diving deep into the world of **AI and Big Data**.
 
 ### 🚀 What I'm up to:
 - 🎓 Finalizing my degree in Computer Science Engineering.
@@ -11,8 +11,8 @@ I am a **Web Application Developer** and a **Computer Science Engineering** stud
 
 ### 🛠️ Tech Stack:
 - **Languages:** Java, TypeScript, Python.
-- **Frameworks:** Angular, Spring Boot.
-- **Interests:** Machine Learning, Data Analysis, and Backend Architecture.
+- **Frameworks:** Angular, Spring Boot, Tailwind CSS.
+- **Interests:** Machine Learning, Data Analysis, and Web Development.
 
 ### 🏊 Beyond the Terminal:
 When I'm not coding, you'll probably find me training for my next **Triathlon**. I'm an endurance sports enthusiast—I love running, cycling, and swimming. I also enjoy unwinding with video games.
@@ -26,6 +26,6 @@ When I'm not coding, you'll probably find me training for my next **Triathlon**.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-guerrero-490891302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-guerrero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:alvalogue7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
