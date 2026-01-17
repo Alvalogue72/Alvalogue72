@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Álvaro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-# Hi there, I'm Alvaro! 👋
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350px" />
 
 I am a **Web Application Developer** and a **Computer Science Engineering** student. I'm deeply passionate about building scalable web solutions and currently diving deep into the world of **AI and Big Data**.
 
@@ -17,22 +17,15 @@ I am a **Web Application Developer** and a **Computer Science Engineering** stud
 ### 🏊 Beyond the Terminal:
 When I'm not coding, you'll probably find me training for my next **Triathlon**. I'm an endurance sports enthusiast—I love running, cycling, and swimming. I also enjoy unwinding with video games.
 
+<br clear="right">
+
 ---
-<!--📫 **How to reach me:** [Link a tu LinkedIn o Email]-->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvalogue72&layout=compact&langs_count=8&theme=algolia"/>
 
-<!--
-**Alvalogue72/Alvalogue72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvalogue72&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
