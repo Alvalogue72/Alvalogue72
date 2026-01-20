@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm Álvaro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350px" />
-&nbsp;
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center" width="350px" />
+
 I am a **Web Application Developer** and a **Computer Science Engineering** student. I'm currently diving deep into the world of **AI and Big Data**.
 
 ### 🚀 What I'm up to:
-
 - 🎓 Finalizing my degree in Computer Science Engineering.
 - 🤖 Specializing in **Artificial Intelligence and Big Data** through an advanced certification.
 - 💻 Building full-stack projects using modern frameworks.
